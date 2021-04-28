@@ -1,6 +1,6 @@
 {
   "name": "@pixelmatters/commitlint-config-pixelmatters",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CommitLint config for usage in Pixelmatters projects",
   "author": "Pixelmatters",
   "homepage": "https://github.com/Pixelmatters/commitlint-config-pixelmatters#readme",
